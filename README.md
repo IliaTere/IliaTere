@@ -9,6 +9,12 @@
 [![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya_tereshenko04@mail.ru)
 [![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hdkshev)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaTere/IliaTere/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IliaTere/IliaTere/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IliaTere/IliaTere/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
