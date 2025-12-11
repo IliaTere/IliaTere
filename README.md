@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**IliaTere/IliaTere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Илья Терешенко
 
-Here are some ideas to get you started:
+**Python Developer / Backend Developer / Инженер данных**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Студент МГУ мехмат | Опыт работы с государственными системами | ИБ специалист
+
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya_tereshenko04@mail.ru)
+[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hdkshev)
+
+</div>
+
+---
+
+## 👨‍💻 О себе
+
+Студент мехмата МГУ (кафедра вычислительной математики). Разрабатываю backend-сервисы для государственных систем, интегрирую математические алгоритмы, проектирую БД и процессы ИБ для объектов КИИ.
+
+**🏛️ 2** государственные системы | **🎓 МГУ** Мехмат
+
+### 🔥 Сейчас работаю над
+- Разработка модулей ИАС «Истина» (Python, C++)
+- Проектирование защитных контуров для объектов КИИ
+- Исследовательская работа на базе МГУ
+
+### 📚 Сейчас изучаю
+- Продвинутые алгоритмы обработки больших данных
+- Криптографические методы защиты информации
+- Оптимизация производительности распределённых систем
+
+---
+
+## 💼 Текущая работа
+
+**Программист 2 категории** @ НИИ механики МГУ  
+Разработка модулей ИАС «Истина» (Python, C++), интеграция математических алгоритмов, работа с большими данными
+
+**Специалист по защите информации** @ ООО «Удостоверяющий центр «БелИнфоНалог»  
+Проектирование защитных контуров КИИ, разработка документации ИБ (ФСТЭК/ФСБ)
+
+---
+
+## 🛠️ Технологии
+
+### Основной стек
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Инструменты
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Также:** REST API, CI/CD, Nix, MySQL, SQL, ФСТЭК/ФСБ, КИИ
+
+---
+
+## 🚀 Проекты
+
+### Mate
+Автоматизация работы репетиторов: управление расписанием, платежами и клиентами  
+`Python` `Django`
+
+---
+
+<div align="center">
+
+**Готов к новым вызовам в области backend-разработки, анализа данных и ИБ**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=IliaTere&color=blueviolet&style=flat-square)](https://github.com/IliaTere)
+
+</div>
