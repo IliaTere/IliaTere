@@ -43,20 +43,89 @@
 
 ## 🛠️ Технологии
 
+<div align="center">
+
 ### Основной стек
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="100">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+  </a>
+  <br>Python
+</td>
+<td align="center" width="100">
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="60" height="60" />
+  </a>
+  <br>Django
+</td>
+<td align="center" width="100">
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
+  </a>
+  <br>PostgreSQL
+</td>
+<td align="center" width="100">
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
+  </a>
+  <br>C++
+</td>
+</tr>
+</table>
 
 ### Инструменты
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Также:** REST API, CI/CD, Nix, MySQL, SQL, ФСТЭК/ФСБ, КИИ
+<table>
+<tr>
+<td align="center" width="100">
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
+  </a>
+  <br>Docker
+</td>
+<td align="center" width="100">
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+  </a>
+  <br>Git
+</td>
+<td align="center" width="100">
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" />
+  </a>
+  <br>Linux
+</td>
+<td align="center" width="100">
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" />
+  </a>
+  <br>NumPy
+</td>
+<td align="center" width="100">
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" />
+  </a>
+  <br>Pandas
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>📋 Полный список технологий</b></summary>
+
+**Языки:** Python, C++, SQL  
+**Фреймворки:** Django, REST API  
+**Базы данных:** PostgreSQL, MySQL  
+**Инструменты:** Git, Docker, CI/CD, Nix, Linux  
+**Библиотеки:** NumPy, Pandas  
+**ИБ:** ФСТЭК/ФСБ, КИИ, Криптография
+
+</details>
 
 ---
 
