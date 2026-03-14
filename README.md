@@ -4,7 +4,7 @@
 
 # Илья Терешенко
 
-`Python` · `Backend` · `Data Engineering` · `ИБ`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Python+%2F+Backend+Developer;Data+Engineering+%2F+%D0%98%D0%91+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82;%D0%9C%D0%93%D0%A3+%D0%9C%D0%B5%D1%85%D0%BC%D0%B0%D1%82+%E2%80%94+%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)](https://github.com/IliaTere)
 
 <br>
 
@@ -58,6 +58,8 @@
 Управление расписанием, платежами и клиентами · `Python` `Django`
 
 <br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IliaTere&theme=tokyo-night&hide_border=true&area=true&hide_title=true)
 
 ---
 
