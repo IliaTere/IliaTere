@@ -8,11 +8,6 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/email-ilya__tereshenko04@mail.ru-2d2d2d?style=flat-square&logo=gmail&logoColor=white)](mailto:ilya_tereshenko04@mail.ru)
-[![Telegram](https://img.shields.io/badge/telegram-@hdkshev-2d2d2d?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hdkshev)
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaTere/IliaTere/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IliaTere/IliaTere/refs/heads/output/github-contribution-grid-snake.svg" />
