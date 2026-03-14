@@ -1,13 +1,17 @@
 <div align="center">
 
+<br>
+
 # Илья Терешенко
 
-**Python Developer / Backend Developer / Инженер данных**
+`Python` · `Backend` · `Data Engineering` · `ИБ`
 
-Студент МГУ мехмат | Опыт работы с государственными системами | ИБ специалист
+<br>
 
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya_tereshenko04@mail.ru)
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hdkshev)
+[![Email](https://img.shields.io/badge/email-ilya__tereshenko04@mail.ru-2d2d2d?style=flat-square&logo=gmail&logoColor=white)](mailto:ilya_tereshenko04@mail.ru)
+[![Telegram](https://img.shields.io/badge/telegram-@hdkshev-2d2d2d?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hdkshev)
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IliaTere/IliaTere/refs/heads/output/github-contribution-grid-snake-dark.svg" />
@@ -17,136 +21,48 @@
 
 </div>
 
----
+<br>
 
-## 👨‍💻 О себе
+Студент мехмата МГУ (вычислительная математика). Разрабатываю backend-сервисы для государственных систем, интегрирую математические алгоритмы, проектирую процессы ИБ для объектов КИИ.
 
-Студент мехмата МГУ (кафедра вычислительной математики). Разрабатываю backend-сервисы для государственных систем, интегрирую математические алгоритмы, проектирую БД и процессы ИБ для объектов КИИ.
+<br>
 
-**🏛️ 2** государственные системы | **🎓 МГУ** Мехмат
+## Стек
 
-### 🔥 Сейчас работаю над
-- Разработка модулей ИАС «Истина» (Python, C++)
-- Проектирование защитных контуров для объектов КИИ
-- Исследовательская работа на базе МГУ
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1a1a1a?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-1a1a1a?style=flat-square&logo=nixos&logoColor=white)
 
-### 📚 Сейчас изучаю
-- Продвинутые алгоритмы обработки больших данных
-- Криптографические методы защиты информации
-- Оптимизация производительности распределённых систем
+<br>
 
----
+## Опыт
 
-## 💼 Текущая работа
-
-**Программист 2 категории** @ НИИ механики МГУ  
+**Программист 2 категории** · НИИ механики МГУ
 Разработка модулей ИАС «Истина» (Python, C++), интеграция математических алгоритмов, работа с большими данными
 
-**Специалист по защите информации** @ ООО «Удостоверяющий центр «БелИнфоНалог»  
-Проектирование защитных контуров КИИ, разработка документации ИБ (ФСТЭК/ФСБ)
+**Специалист по ИБ** · УЦ «БелИнфоНалог»
+Проектирование защитных контуров КИИ, документация по стандартам ФСТЭК/ФСБ
 
----
+<br>
 
-## 🛠️ Технологии
+## Проекты
 
-<div align="center">
+**Mate** — автоматизация работы репетиторов
+Управление расписанием, платежами и клиентами · `Python` `Django`
 
-### Основной стек
-
-<table>
-<tr>
-<td align="center" width="100">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-  </a>
-  <br>Python
-</td>
-<td align="center" width="100">
-  <a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="60" height="60" />
-  </a>
-  <br>Django
-</td>
-<td align="center" width="100">
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
-  </a>
-  <br>PostgreSQL
-</td>
-<td align="center" width="100">
-  <a href="https://isocpp.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
-  </a>
-  <br>C++
-</td>
-</tr>
-</table>
-
-### Инструменты
-
-<table>
-<tr>
-<td align="center" width="100">
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
-  </a>
-  <br>Docker
-</td>
-<td align="center" width="100">
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
-  </a>
-  <br>Git
-</td>
-<td align="center" width="100">
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" />
-  </a>
-  <br>Linux
-</td>
-<td align="center" width="100">
-  <a href="https://numpy.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" />
-  </a>
-  <br>NumPy
-</td>
-<td align="center" width="100">
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" />
-  </a>
-  <br>Pandas
-</td>
-</tr>
-</table>
-
-</div>
-
-<details>
-<summary><b>📋 Полный список технологий</b></summary>
-
-**Языки:** Python, C++, SQL  
-**Фреймворки:** Django, REST API  
-**Базы данных:** PostgreSQL, MySQL  
-**Инструменты:** Git, Docker, CI/CD, Nix, Linux  
-**Библиотеки:** NumPy, Pandas  
-**ИБ:** ФСТЭК/ФСБ, КИИ, Криптография
-
-</details>
-
----
-
-## 🚀 Проекты
-
-### Mate
-Автоматизация работы репетиторов: управление расписанием, платежами и клиентами  
-`Python` `Django`
+<br>
 
 ---
 
 <div align="center">
 
-**Готов к новым вызовам в области backend-разработки, анализа данных и ИБ**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=IliaTere&color=blueviolet&style=flat-square)](https://github.com/IliaTere)
+[![views](https://komarev.com/ghpvc/?username=IliaTere&color=555555&style=flat-square&label=profile+views)](https://github.com/IliaTere)
 
 </div>
