@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: IliaTere/snk/svg-only@main
+        uses: IliaTere/snk/svg-only@33c39fe3483d3226301fdeab0e1ea81ce1a9af47
         with:
           github_user_name: IliaTere
           outputs: |
